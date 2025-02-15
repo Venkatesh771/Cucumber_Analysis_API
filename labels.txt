@@ -1,0 +1,4 @@
+0 Optimal_Moisture
+1 Moderate_Moisture
+2 Low_Moisture
+3 Not_A_Cucumber
